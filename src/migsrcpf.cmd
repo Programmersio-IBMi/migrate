@@ -8,5 +8,3 @@
                         PROMPT('Output Directory') ALWUNPRT(*NO) 
              PARM       KWD(CCSID) TYPE(*CHAR) LEN(10)  +
                         PROMPT('CCSID') ALWUNPRT(*NO) DFT(1252) 
- /* comment line  */
-  /* comment line  */
