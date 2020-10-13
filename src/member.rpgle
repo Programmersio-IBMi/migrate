@@ -184,7 +184,7 @@
      c                   eval      StartLen = SizeEntry
 
      c                   return    NbrInList
-
+      * End of program  
       **========================================================================
       ** xQUSCRTUS - API to create user space
       **========================================================================
